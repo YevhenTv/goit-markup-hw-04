@@ -543,6 +543,7 @@ margin-right: 30px;
 }
 
     .footer-list {
+        list-style: none;
         margin-right: 70px;
     }
 
@@ -626,6 +627,7 @@ margin-right: 30px;
 }
 
 .footer-list-icons {
+    list-style: none;
     display: flex;
 }
 
